@@ -2,7 +2,6 @@
     "name": "dreadkopp/annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
-    "homepage": "http://laravelcollective.com",
     "authors": [
         {
             "name": "Adam Engebretson",
