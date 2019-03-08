@@ -2,6 +2,7 @@
     "name": "laravelcollective/annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
+    "versions" : "dev-master, dev-dev-rt5.8, dev-rt5.8",
     "authors": [
         {
             "name": "Adam Engebretson",
