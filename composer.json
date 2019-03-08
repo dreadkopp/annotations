@@ -33,7 +33,5 @@
     "branch-alias": {
         "dev-master": "dev-rt5.8"
       }
-    },
-    "minimum-stability": "dev"
-    
+    }
 }
