@@ -1,5 +1,5 @@
 {
-    "name": "dreadkopp/annotations",
+    "name": "laravelcollective/annotations",
     "description": "Route Annotations for The Laravel Framework.",
     "license": "MIT",
     "authors": [
@@ -26,7 +26,7 @@
     },    
     "autoload": {
         "psr-4": {
-            "dreadkopp\\": "src/"
+            "Collective\\Annotations\\": "src/"
         }
     }
 }
