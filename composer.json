@@ -18,12 +18,12 @@
         "illuminate/console": "5.8.*",
         "illuminate/filesystem": "5.8.*",
         "illuminate/support": "5.8.*",
-        "doctrine/annotations": "~1.0"
+        "doctrine/annotations": "~1.6"
     },
     "require-dev": {
         "illuminate/database": "5.8.*",
-        "mockery/mockery": "~0.9.4",
-        "phpunit/phpunit": "~5.4"
+        "mockery/mockery": "0.9.11",
+        "phpunit/phpunit": "8.0.4"
     },
     "autoload": {
         "psr-4": {
