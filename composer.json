@@ -14,13 +14,13 @@
     ],
     "require": {
         "php": ">=7.3",
-        "illuminate/console": "5.8.3",
-        "illuminate/filesystem": "5.8.3",
-        "illuminate/support": "5.8.3",
+        "illuminate/console": "5.8.8",
+        "illuminate/filesystem": "5.8.8",
+        "illuminate/support": "5.8.8",
         "doctrine/annotations": "~1.6"
     },
     "require-dev": {
-        "illuminate/database": "5.8.3",
+        "illuminate/database": "5.8.8",
         "mockery/mockery": "0.9.11",
         "phpunit/phpunit": "8.0.4"
     },    
